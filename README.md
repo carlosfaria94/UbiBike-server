@@ -82,4 +82,4 @@ NOTE: This project is a culmination of work of the following members:
 
 - Carlos Faria <carlosfigueira@tecnico.ulisboa.pt>
 - Sérgio Mendes <sergiosmendes@tecnico.ulisboa.pt>
-- Nuno Vasconcelos <nunovasconcelos@tecnico.ulisboa.pt>
+- Diogo Abreu <diogo.perestrelo.abreu@tecnico.ulisboa.pt>
