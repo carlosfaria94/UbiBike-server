@@ -1,4 +1,6 @@
-## UbiBike Server
+<i><b>NOTE:</b> This is only server API for the UbiBike project, you can see [here the Android application (client)](https://github.com/carlosfaria94/UbiBike-client).</i>
+
+# UbiBike Server
 
 The goal of this project is to develop a distributed mobile application, which aims to provide a set of functionalities to cyclists in urban centers. The target plataform for UbiBike is Android >= 4.0. Wifi Direct will be used for wireless communication.
 
@@ -6,6 +8,7 @@ More information in [Project Report](https://github.com/carlosfaria94/UbiBike-se
 
 ![alt text](https://github.com/carlosfaria94/UbiBike-server/blob/master/Doc/use-scenario.png)
 
+To develop this server REST API we used Spring Framework.
 
 ## Executing
 
